@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:7C3AED&height=230&section=header&text=TANISHQ%20KALE&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20LLM%20%7C%20Backend%20Developer&descAlignY=60&descSize=18&animation=twinkling" width="100%" alt="Tanishq Kale Header"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:312E81,50:6D28D9,100:7C3AED&height=220&section=header&animation=twinkling" width="100%" alt="Header Banner"/>
 
 <br>
 
@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/B.Tech-CSIT-6D28D9?style=for-the-badge&labelColor=111827" alt="B.Tech CSIT"/>
 <img src="https://img.shields.io/badge/Acropolis%20Institute%20of%20Technology%20%26%20Research-2022--2026-4C1D95?style=for-the-badge&labelColor=111827" alt="Acropolis Institute of Technology and Research"/>
-<img src="https://img.shields.io/badge/Software%20Developer-Aspiring-312E81?style=for-the-badge&labelColor=111827" alt="Aspiring Software Developer"/>
+<img src="https://img.shields.io/badge/Aspiring%20Software%20Developer-312E81?style=for-the-badge&labelColor=111827" alt="Aspiring Software Developer"/>
 <img src="https://img.shields.io/badge/Location-Madhya%20Pradesh%2C%20India-4338CA?style=for-the-badge&labelColor=111827" alt="Location"/>
 
 <br><br>
@@ -43,17 +43,17 @@
 
 ## About
 
-I am a Computer Science & Information Technology student with strong foundations in **Java, Python, JavaScript, SQL, Object-Oriented Programming, database management, and backend development**.
+I am a final-year **B.Tech Computer Science & Information Technology student** with strong foundations in **Java, Python, JavaScript, SQL, Object-Oriented Programming, database management, and backend development**.
 
 My primary interest lies in building practical software solutions with a strong focus on **backend development, web applications, REST API integration, and database-driven systems**.
 
 Alongside software development, I have professional experience in **Large Language Model evaluation, model benchmarking, NLP, structured annotation, and post-LLM training workflows**. My work involves evaluating model outputs for factual accuracy, logical consistency, and instruction adherence while identifying hallucinations and alignment gaps across model versions.
 
-I enjoy solving practical problems through software engineering and exploring how **AI and LLM technologies** can be integrated into useful, reliable applications.
+I enjoy solving practical problems through software engineering and exploring how **AI and LLM technologies** can be integrated into useful and reliable applications.
 
 ### Open To
 
-**Software Development · Backend Development · Java Development · Python Development · AI/LLM Engineering · NLP · Full-Stack Development · Software Engineering**
+**Software Development · Backend Development · Java Development · Python Development · AI/LLM Engineering · NLP · Web Development · Software Engineering**
 
 ---
 
@@ -62,25 +62,25 @@ I enjoy solving practical problems through software engineering and exploring ho
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css&theme=dark" alt="Java Python JavaScript HTML CSS"/>
 </p>
 
 ### Backend & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=flask,bootstrap&theme=dark" alt="Backend and Frameworks"/>
+<img src="https://skillicons.dev/icons?i=flask,bootstrap&theme=dark" alt="Flask Bootstrap"/>
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite"/>
 </p>
 
 ### Development & Version Control
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Development and Version Control"/>
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git GitHub"/>
 </p>
 
 ### Core Skills
@@ -99,7 +99,7 @@ I enjoy solving practical problems through software engineering and exploring ho
 | AI Model Analysis | Hands-on | Analysed model responses using standardized review frameworks |
 | Structured Annotation | Hands-on | Worked with annotation and feedback loops to improve response quality |
 | AI & LLM Technologies | Working Knowledge | Focused on practical AI-powered solutions and LLM-based workflows |
-| Machine Learning | Foundational | Building knowledge through academic and practical AI-oriented work |
+| Machine Learning | Foundational | Developing knowledge through academic and practical AI-oriented work |
 
 ---
 
@@ -162,7 +162,7 @@ Professional experience focused on post-LLM training, model evaluation, benchmar
 
 ## Experience
 
-### LLM Training & Model Evaluation Intern
+### LLM Training & Model Evaluation Intern  
 **Ethara AI**
 
 **January 2026 – Present · On-Site**
@@ -247,9 +247,7 @@ Worked on **post-LLM training, model evaluation, benchmarking, and NLP-related w
 
 <div align="center">
 
-<a href="https://github.com/Tanishq-code1?tab=achievements">
-  <img src="https://img.shields.io/badge/GitHub-Achievements-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Achievements"/>
-</a>
+<img src="https://gitascii.com/api/Tanishq-code1?widgets=profile-trophy" alt="GitHub Profile Trophies" width="900"/>
 
 </div>
 
@@ -269,11 +267,7 @@ Worked on **post-LLM training, model evaluation, benchmarking, and NLP-related w
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanishq-code1/Tanishq-code1/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanishq-code1/Tanishq-code1/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/Tanishq-code1/Tanishq-code1/output/github-snake.svg" alt="GitHub Contribution Snake">
-</picture>
+<img src="https://gitascii.com/api/Tanishq-code1?widgets=contribution-snake" alt="Tanishq-code1 Contribution Snake" width="900"/>
 
 </div>
 
@@ -283,8 +277,8 @@ Worked on **post-LLM training, model evaluation, benchmarking, and NLP-related w
 
 ```yaml
 Learning:
+  - Java & OOP
   - Backend Development
-  - Advanced Java & OOP
   - Python Development
   - AI & LLM Technologies
   - NLP
@@ -293,7 +287,7 @@ Learning:
 Building:
   - Practical backend applications
   - AI-powered solutions
-  - Full-stack web applications
+  - Web applications
   - Real-world problem-solving projects
 
 Exploring:
@@ -311,5 +305,5 @@ Open To:
   - Python Development
   - AI/LLM Engineering
   - NLP
-  - Full-Stack Development
+  - Web Development
   - Software Engineering
