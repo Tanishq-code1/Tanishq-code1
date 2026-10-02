@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:7C3AED&height=230&section=header&text=TANISHQ%20KALE&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20LLM%20%7C%20Backend%20Developer&descAlignY=60&descSize=18&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:7C3AED&height=230&section=header&text=TANISHQ%20KALE&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20LLM%20%7C%20Backend%20Developer&descAlignY=60&descSize=18&animation=twinkling" width="100%" alt="Tanishq Kale Header"/>
 
 <br>
 
@@ -8,34 +8,34 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/B.Tech-CSIT-6D28D9?style=for-the-badge&labelColor=111827"/>
-<img src="https://img.shields.io/badge/Acropolis%20Institute%20of%20Technology%20%26%20Research-2022--2026-4C1D95?style=for-the-badge&labelColor=111827"/>
-<img src="https://img.shields.io/badge/Software%20Developer-Aspiring-312E81?style=for-the-badge&labelColor=111827"/>
-<img src="https://img.shields.io/badge/Location-Madhya%20Pradesh%2C%20India-4338CA?style=for-the-badge&labelColor=111827"/>
+<img src="https://img.shields.io/badge/B.Tech-CSIT-6D28D9?style=for-the-badge&labelColor=111827" alt="B.Tech CSIT"/>
+<img src="https://img.shields.io/badge/Acropolis%20Institute%20of%20Technology%20%26%20Research-2022--2026-4C1D95?style=for-the-badge&labelColor=111827" alt="Acropolis Institute of Technology and Research"/>
+<img src="https://img.shields.io/badge/Software%20Developer-Aspiring-312E81?style=for-the-badge&labelColor=111827" alt="Aspiring Software Developer"/>
+<img src="https://img.shields.io/badge/Location-Madhya%20Pradesh%2C%20India-4338CA?style=for-the-badge&labelColor=111827" alt="Location"/>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/tanishq-kale-profile/">
-  <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:tanishqkale007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://github.com/Tanishq-code1">
-  <img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://github.com/Tanishq-code1?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Tanishq-code1&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/Tanishq-code1?style=for-the-badge&color=6D28D9&labelColor=111827&logo=github&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/Tanishq-code1/Tanishq-code1?style=for-the-badge&color=8B5CF6&labelColor=111827&logo=github&label=PROFILE+REPO+STARS"/>
+<img src="https://komarev.com/ghpvc/?username=Tanishq-code1&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Tanishq-code1?style=for-the-badge&color=6D28D9&labelColor=111827&logo=github&label=FOLLOWERS" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Tanishq-code1/Tanishq-code1?style=for-the-badge&color=8B5CF6&labelColor=111827&logo=github&label=PROFILE+REPO+STARS" alt="Profile Repository Stars"/>
 
 </div>
 
@@ -43,11 +43,11 @@
 
 ## About
 
-I am a Computer Science & Information Technology graduate with strong foundations in **Java, Python, JavaScript, SQL, Object-Oriented Programming, database management, and backend development**.
+I am a Computer Science & Information Technology student with strong foundations in **Java, Python, JavaScript, SQL, Object-Oriented Programming, database management, and backend development**.
 
 My primary interest lies in building practical software solutions with a strong focus on **backend development, web applications, REST API integration, and database-driven systems**.
 
-I also have professional experience in **Large Language Model evaluation, model benchmarking, NLP, structured annotation, and post-LLM training workflows**. My work has involved evaluating model outputs for factual accuracy, logical consistency, and instruction adherence while identifying hallucinations and alignment gaps across model versions.
+Alongside software development, I have professional experience in **Large Language Model evaluation, model benchmarking, NLP, structured annotation, and post-LLM training workflows**. My work involves evaluating model outputs for factual accuracy, logical consistency, and instruction adherence while identifying hallucinations and alignment gaps across model versions.
 
 I enjoy solving practical problems through software engineering and exploring how **AI and LLM technologies** can be integrated into useful, reliable applications.
 
@@ -62,25 +62,25 @@ I enjoy solving practical problems through software engineering and exploring ho
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css&theme=dark" alt="Languages"/>
 </p>
 
 ### Backend & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=flask,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flask,bootstrap&theme=dark" alt="Backend and Frameworks"/>
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="Databases"/>
 </p>
 
 ### Development & Version Control
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Development and Version Control"/>
 </p>
 
 ### Core Skills
@@ -119,7 +119,7 @@ A real-time women's safety web application designed around emergency alerts, liv
 | **Performance** | Designed for quick interaction during emergency situations |
 | **Security** | Live location sharing with selected trusted contacts |
 | **Impact** | Provides emergency alerts, location tracking, safe zones, and route suggestions |
-| **Repository** | [View Repository](https://github.com/Tanishq-code1) |
+| **Repository** | [GitHub Repositories](https://github.com/Tanishq-code1?tab=repositories) |
 
 ### Engineering Scope
 
@@ -162,7 +162,7 @@ Professional experience focused on post-LLM training, model evaluation, benchmar
 
 ## Experience
 
-### LLM Training & Model Evaluation Intern  
+### LLM Training & Model Evaluation Intern
 **Ethara AI**
 
 **January 2026 – Present · On-Site**
@@ -203,9 +203,9 @@ Worked on **post-LLM training, model evaluation, benchmarking, and NLP-related w
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Java-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NPTEL-Design%20%26%20Analysis%20of%20Algorithms-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NPTEL-Software%20Engineering-312E81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Java-6D28D9?style=for-the-badge" alt="NPTEL Programming in Java"/>
+<img src="https://img.shields.io/badge/NPTEL-Design%20%26%20Analysis%20of%20Algorithms-4F46E5?style=for-the-badge" alt="NPTEL Design and Analysis of Algorithms"/>
+<img src="https://img.shields.io/badge/NPTEL-Software%20Engineering-312E81?style=for-the-badge" alt="NPTEL Software Engineering"/>
 
 </div>
 
@@ -216,7 +216,7 @@ Worked on **post-LLM training, model evaluation, benchmarking, and NLP-related w
 <div align="center">
 
 <a href="https://github.com/Tanishq-code1">
-  <img src="https://img.shields.io/badge/GitHub-Tanishq--code1-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Tanishq--code1-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
 
 </div>
@@ -227,9 +227,9 @@ Worked on **post-LLM training, model evaluation, benchmarking, and NLP-related w
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Tanishq-code1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1&icon_color=8B5CF6&rank_icon=github&custom_title=Tanishq%20Kale%27s%20GitHub%20Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Tanishq-code1&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1&icon_color=8B5CF6&rank_icon=github&custom_title=Tanishq%20Kale%27s%20GitHub%20Stats" alt="GitHub Stats"/>
 
-<img height="180" src="https://streak-stats.demolab.com/?user=Tanishq-code1&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=94A3B8&stroke=312E81"/>
+<img height="180" src="https://streak-stats.demolab.com/?user=Tanishq-code1&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=94A3B8&stroke=312E81" alt="GitHub Streak"/>
 
 </div>
 
@@ -237,7 +237,7 @@ Worked on **post-LLM training, model evaluation, benchmarking, and NLP-related w
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq-code1&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1&icon_color=8B5CF6"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq-code1&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1&icon_color=8B5CF6" alt="Top Languages"/>
 
 </div>
 
@@ -247,7 +247,9 @@ Worked on **post-LLM training, model evaluation, benchmarking, and NLP-related w
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tanishq-code1&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=2&column=6"/>
+<a href="https://github.com/Tanishq-code1?tab=achievements">
+  <img src="https://img.shields.io/badge/GitHub-Achievements-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Achievements"/>
+</a>
 
 </div>
 
@@ -257,7 +259,7 @@ Worked on **post-LLM training, model evaluation, benchmarking, and NLP-related w
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishq-code1&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Tanishq%20Kale%20%E2%80%94%20Contribution%20Activity"/>
+<img src="https://gh-heat.anishroy.com/api/Tanishq-code1/svg?theme=purple&darkMode=true&mobile=true" alt="Tanishq-code1 GitHub Contribution Activity" width="900"/>
 
 </div>
 
@@ -268,9 +270,9 @@ Worked on **post-LLM training, model evaluation, benchmarking, and NLP-related w
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanishq-code1/Tanishq-code1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanishq-code1/Tanishq-code1/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/Tanishq-code1/Tanishq-code1/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanishq-code1/Tanishq-code1/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanishq-code1/Tanishq-code1/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/Tanishq-code1/Tanishq-code1/output/github-snake.svg" alt="GitHub Contribution Snake">
 </picture>
 
 </div>
