@@ -1,34 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:7C3AED&height=230&section=header&text=TANISHQ%20KALE&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=18&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:7C3AED&height=230&section=header&text=TANISHQ%20KALE&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20LLM%20%7C%20Backend%20Developer&descAlignY=60&descSize=18&animation=twinkling" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Engineering+Scalable+Software+Systems;Building+AI%2FML+Products+with+Real-World+Impact;Full-Stack+%7C+Backend+%7C+Data+%7C+Cloud;Product+Engineering+with+an+Execution+Mindset" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+Practical+Software+Solutions;Backend+Development+%7C+Java+%7C+Python;AI+%26+LLM+Evaluation+%7C+Model+Benchmarking;Turning+Problems+Into+Reliable+Applications" alt="Typing SVG"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/B.Tech-CSIT-6D28D9?style=for-the-badge&labelColor=111827"/>
-<img src="https://img.shields.io/badge/RGPV-Engineering-4C1D95?style=for-the-badge&labelColor=111827"/>
-<img src="https://img.shields.io/badge/Final%20Year-2026-312E81?style=for-the-badge&labelColor=111827"/>
-<img src="https://img.shields.io/badge/Location-Ujjain%2C%20India-4338CA?style=for-the-badge&labelColor=111827"/>
+<img src="https://img.shields.io/badge/Acropolis%20Institute%20of%20Technology%20%26%20Research-2022--2026-4C1D95?style=for-the-badge&labelColor=111827"/>
+<img src="https://img.shields.io/badge/Software%20Developer-Aspiring-312E81?style=for-the-badge&labelColor=111827"/>
+<img src="https://img.shields.io/badge/Location-Madhya%20Pradesh%2C%20India-4338CA?style=for-the-badge&labelColor=111827"/>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/tanishq-kale-profile/">
   <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:tanishqkale007@gmail.com">
   <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/TanishqKale">
+
+<a href="https://github.com/Tanishq-code1">
   <img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Tanishq-code1?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=TanishqKale&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/TanishqKale?style=for-the-badge&color=6D28D9&labelColor=111827&logo=github&label=FOLLOWERS"/>
+<img src="https://komarev.com/ghpvc/?username=Tanishq-code1&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Tanishq-code1?style=for-the-badge&color=6D28D9&labelColor=111827&logo=github&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/Tanishq-code1/Tanishq-code1?style=for-the-badge&color=8B5CF6&labelColor=111827&logo=github&label=PROFILE+REPO+STARS"/>
 
 </div>
 
@@ -36,17 +43,17 @@
 
 ## About
 
-I am a Computer Science & Information Technology engineer focused on building reliable software systems, intelligent applications, and data-driven products.
+I am a Computer Science & Information Technology graduate with strong foundations in **Java, Python, JavaScript, SQL, Object-Oriented Programming, database management, and backend development**.
 
-My engineering approach combines strong software fundamentals, practical AI/ML, full-stack development, backend architecture, and product thinking. I enjoy taking an idea from problem definition to architecture, implementation, validation, and deployment while keeping scalability, maintainability, security, and user experience in mind.
+My primary interest lies in building practical software solutions with a strong focus on **backend development, web applications, REST API integration, and database-driven systems**.
 
-My current technical interests span AI/ML engineering, backend systems, modern web applications, data platforms, cloud infrastructure, cybersecurity, and product engineering. I particularly enjoy working at the intersection of software engineering and intelligent systems where technology can solve measurable real-world problems.
+I also have professional experience in **Large Language Model evaluation, model benchmarking, NLP, structured annotation, and post-LLM training workflows**. My work has involved evaluating model outputs for factual accuracy, logical consistency, and instruction adherence while identifying hallucinations and alignment gaps across model versions.
 
-I believe good engineering is not only about writing code. It is about understanding the problem, designing the right system, making informed trade-offs, measuring outcomes, and continuously improving the product.
+I enjoy solving practical problems through software engineering and exploring how **AI and LLM technologies** can be integrated into useful, reliable applications.
 
 ### Open To
 
-**Software Engineering · AI/ML Engineering · Backend Engineering · Full-Stack Development · Data Engineering · Cloud & DevOps · Cybersecurity · Product Engineering · Open Source**
+**Software Development · Backend Development · Java Development · Python Development · AI/LLM Engineering · NLP · Full-Stack Development · Software Engineering**
 
 ---
 
@@ -55,64 +62,99 @@ I believe good engineering is not only about writing code. It is about understan
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,html,css,bash,sql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css&theme=dark" />
 </p>
 
-### Frontend
+### Backend & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind,redux,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flask,bootstrap&theme=dark" />
 </p>
 
-### Backend & Databases
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgresql,mongodb,mysql,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" />
 </p>
 
-### Cloud, DevOps & Tooling
+### Development & Version Control
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,linux,nginx,postman,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
 </p>
+
+### Core Skills
+
+`SQL` `OOP` `REST APIs` `Database Management` `Problem Solving`
 
 ---
 
 ## AI / ML Expertise
 
-| Domain                  | Proficiency     | Details                                                                     |
-| ----------------------- | --------------- | --------------------------------------------------------------------------- |
-| Machine Learning        | 🟣 Advanced     | Supervised learning, model evaluation, feature engineering, experimentation |
-| Artificial Intelligence | 🟣 Advanced     | Intelligent automation, AI-assisted applications, decision systems          |
-| Data Science            | 🟣 Advanced     | Data preparation, exploratory analysis, visualization, analytical workflows |
-| Deep Learning           | 🟣 Intermediate | Neural-network concepts, experimentation, model pipelines                   |
-| NLP                     | 🟣 Intermediate | Text processing, semantic analysis, classification workflows                |
-| Generative AI           | 🟣 Intermediate | LLM-powered applications, prompt engineering, AI product integration        |
-| Computer Vision         | 🔵 Intermediate | Image-processing concepts and vision-oriented application workflows         |
-| MLOps                   | 🔵 Intermediate | Model lifecycle concepts, APIs, deployment patterns, reproducible workflows |
-| AI Security             | 🔵 Intermediate | Threat intelligence, abuse detection, security-oriented analytics           |
+| Domain | Proficiency | Details |
+|---|---|---|
+| LLM Evaluation | Professional | Evaluated outputs from 3 LLMs for factual accuracy, logical consistency, and instruction adherence |
+| Model Benchmarking | Professional | Performed comparative analysis to identify hallucinations and alignment gaps across model versions |
+| NLP | Hands-on | Professional exposure through post-LLM training and model evaluation workflows |
+| AI Model Analysis | Hands-on | Analysed model responses using standardized review frameworks |
+| Structured Annotation | Hands-on | Worked with annotation and feedback loops to improve response quality |
+| AI & LLM Technologies | Working Knowledge | Focused on practical AI-powered solutions and LLM-based workflows |
+| Machine Learning | Foundational | Building knowledge through academic and practical AI-oriented work |
 
 ---
 
 ## Featured Projects
 
 <details>
-<summary><strong>Projects Coming Soon</strong></summary>
+<summary><strong>AlertAngel — Women's Safety Web App</strong></summary>
 
 <br>
 
-Project repositories will be added here as they are finalized.
+A real-time women's safety web application designed around emergency alerts, live location tracking, safe-zone discovery, and route suggestions.
 
-Each project will include:
+| Category | Details |
+|---|---|
+| **Stack** | HTML, CSS, JavaScript, Flask, Google Maps API |
+| **Scale** | Real-time web application focused on personal safety |
+| **Performance** | Designed for quick interaction during emergency situations |
+| **Security** | Live location sharing with selected trusted contacts |
+| **Impact** | Provides emergency alerts, location tracking, safe zones, and route suggestions |
+| **Repository** | [View Repository](https://github.com/Tanishq-code1) |
 
-| Category        | Details                                     |
-| --------------- | ------------------------------------------- |
-| **Stack**       | Technologies and architecture               |
-| **Scale**       | System scope and complexity                 |
-| **Performance** | Optimization and engineering considerations |
-| **Security**    | Security architecture and controls          |
-| **Impact**      | Practical outcome and value                 |
-| **Repository**  | GitHub repository link                      |
+### Engineering Scope
+
+- Built a women's safety web application supporting **real-time alerts and location tracking**.
+- Integrated the **Google Maps API** to identify nearby safe zones and provide route suggestions.
+- Developed an emergency alert feature that shares the user's live location with selected trusted contacts.
+- Designed a clean and accessible interface focused on quick response and ease of use during emergency situations.
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>LLM Training & Model Evaluation</strong></summary>
+
+<br>
+
+Professional experience focused on post-LLM training, model evaluation, benchmarking, NLP, and structured feedback workflows.
+
+| Category | Details |
+|---|---|
+| **Stack** | LLM Evaluation, NLP, Model Benchmarking, Structured Annotation |
+| **Scale** | Evaluation of outputs from 3 LLMs |
+| **Performance** | Improved response correctness and evaluation efficiency by 68% |
+| **Security** | Evaluated factual accuracy, logical consistency, and instruction adherence |
+| **Impact** | Helped identify hallucinations and alignment gaps across model versions |
+| **Repository** | Professional Experience — No Public Repository |
+
+### Engineering Scope
+
+- Evaluated outputs from **3 Large Language Models** using standardized review frameworks.
+- Performed benchmarking and comparative analysis across model versions.
+- Identified hallucinations and alignment gaps through structured evaluation.
+- Contributed to post-training optimization through structured annotation and feedback loops.
+- Improved model response correctness and evaluation efficiency by **68%**.
 
 </details>
 
@@ -120,25 +162,24 @@ Each project will include:
 
 ## Experience
 
-### Research, Management & Leadership Intern
+### LLM Training & Model Evaluation Intern  
+**Ethara AI**
 
-**Ethara AIFOR — Gurgaon, India**
+**January 2026 – Present · On-Site**
 
-**2025 – 2026**
-
-Worked in an on-site environment across research, management, coordination, and leadership-oriented responsibilities with an emphasis on structured execution and analytical problem solving.
+Worked on **post-LLM training, model evaluation, benchmarking, and NLP-related workflows**.
 
 **Scope of Work**
 
-* Conducted research and synthesized information into actionable insights.
-* Supported structured project coordination and operational execution.
-* Worked across collaborative environments requiring communication, ownership, and accountability.
-* Contributed to analytical and reporting-oriented tasks.
-* Developed practical exposure to professional workflows, stakeholder coordination, and delivery discipline.
+- Evaluated Large Language Model outputs for factual accuracy, logical consistency, and instruction adherence.
+- Performed benchmarking and comparative analysis to identify hallucinations and alignment gaps.
+- Evaluated outputs from 3 LLMs using standardized review frameworks.
+- Contributed to post-training optimization through structured annotation and feedback loops.
+- Improved model response correctness and evaluation efficiency by 68%.
 
 **Skills**
 
-`Research` `Analysis` `Leadership` `Project Coordination` `Communication` `Reporting` `Problem Solving`
+`LLM Evaluation` `NLP` `Model Benchmarking` `Structured Annotation` `AI` `Analysis` `Problem Solving`
 
 ---
 
@@ -146,13 +187,11 @@ Worked in an on-site environment across research, management, coordination, and 
 
 <div align="center">
 
-| Recognition                   | Details                                                                                                           |
-| ----------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| **Cybersecurity Hackathon**   | Developed a citizen-focused Cyber Threat Intelligence platform using an open-source OSINT approach                |
-| **Research Publication Work** | Designed and documented a comparative OSINT-based Cyber Threat Intelligence research project                      |
-| **Full-Stack Engineering**    | Built end-to-end applications spanning frontend, backend, databases, APIs, and asynchronous processing            |
-| **Technical Leadership**      | Contributed to team-based engineering projects involving architecture, research, implementation, and presentation |
-| **Engineering Portfolio**     | Maintained hands-on projects across software engineering, AI/ML, cybersecurity, and data-driven development       |
+| Recognition | Details |
+|---|---|
+| **1st Place — District-Level General Knowledge Quiz** | Recognized for outstanding performance among participating institutions |
+| **Runner-Up — State-Level Quiz Contest** | Secured the runner-up position in a state-level quiz contest |
+| **Kriyeta 4.0 — 48-Hour Offline Hackathon** | Participated in an intensive hackathon involving problem-solving, teamwork, and delivery under tight deadlines |
 
 </div>
 
@@ -160,29 +199,15 @@ Worked in an on-site environment across research, management, coordination, and 
 
 ## Certifications
 
-### AWS
-
-<a href="https://aws.amazon.com/certification/">
-  <img src="https://img.shields.io/badge/AWS-Certification-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</a>
-
-### Oracle
-
-<a href="https://education.oracle.com/oracle-certification/">
-  <img src="https://img.shields.io/badge/Oracle-Certification-4F46E5?style=for-the-badge&logo=oracle&logoColor=white"/>
-</a>
-
 ### NPTEL
 
-<a href="https://nptel.ac.in/">
-  <img src="https://img.shields.io/badge/NPTEL-Certified%20Learning-6D28D9?style=for-the-badge"/>
-</a>
+<div align="center">
 
-### Cisco
+<img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Java-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NPTEL-Design%20%26%20Analysis%20of%20Algorithms-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NPTEL-Software%20Engineering-312E81?style=for-the-badge"/>
 
-<a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/index.html">
-  <img src="https://img.shields.io/badge/Cisco-Certification-312E81?style=for-the-badge&logo=cisco&logoColor=white"/>
-</a>
+</div>
 
 ---
 
@@ -190,8 +215,8 @@ Worked in an on-site environment across research, management, coordination, and 
 
 <div align="center">
 
-<a href="https://github.com/TanishqKale">
-  <img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Tanishq-code1">
+  <img src="https://img.shields.io/badge/GitHub-Tanishq--code1-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -202,9 +227,9 @@ Worked in an on-site environment across research, management, coordination, and 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TanishqKale&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=A78BFA&icon_color=8B5CF6&text_color=CBD5E1&bg_color=0D1117"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Tanishq-code1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1&icon_color=8B5CF6&rank_icon=github&custom_title=Tanishq%20Kale%27s%20GitHub%20Stats"/>
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=TanishqKale&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=64748B"/>
+<img height="180" src="https://streak-stats.demolab.com/?user=Tanishq-code1&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=94A3B8&stroke=312E81"/>
 
 </div>
 
@@ -212,7 +237,7 @@ Worked in an on-site environment across research, management, coordination, and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishqKale&layout=compact&hide_border=true&langs_count=10&title_color=A78BFA&text_color=CBD5E1&bg_color=0D1117" height="180em"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq-code1&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1&icon_color=8B5CF6"/>
 
 </div>
 
@@ -222,7 +247,7 @@ Worked in an on-site environment across research, management, coordination, and 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TanishqKale&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=2&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Tanishq-code1&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=2&column=6"/>
 
 </div>
 
@@ -232,7 +257,7 @@ Worked in an on-site environment across research, management, coordination, and 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanishqKale&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Tanishq%20Kale%20%E2%80%94%20Contribution%20Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishq-code1&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Tanishq%20Kale%20%E2%80%94%20Contribution%20Activity"/>
 
 </div>
 
@@ -243,9 +268,9 @@ Worked in an on-site environment across research, management, coordination, and 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanishqKale/TanishqKale/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TanishqKale/TanishqKale/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/TanishqKale/TanishqKale/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanishq-code1/Tanishq-code1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanishq-code1/Tanishq-code1/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Tanishq-code1/Tanishq-code1/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </picture>
 
 </div>
@@ -256,66 +281,33 @@ Worked in an on-site environment across research, management, coordination, and 
 
 ```yaml
 Learning:
-  - Advanced Machine Learning
-  - Artificial Intelligence Systems
-  - Distributed Systems
-  - Cloud Architecture
-  - MLOps
-  - System Design
+  - Backend Development
+  - Advanced Java & OOP
+  - Python Development
+  - AI & LLM Technologies
+  - NLP
+  - Software Engineering
 
 Building:
-  - AI-powered applications
-  - Cybersecurity and OSINT platforms
-  - Scalable full-stack systems
-  - Data-driven products
-  - Developer-focused tools
+  - Practical backend applications
+  - AI-powered solutions
+  - Full-stack web applications
+  - Real-world problem-solving projects
 
 Exploring:
-  - Generative AI
   - Large Language Models
-  - AI Agents
-  - Cloud-native engineering
-  - Intelligent automation
-  - Secure software architecture
+  - NLP
+  - AI Model Evaluation
+  - REST API Development
+  - Database-driven Applications
+  - Software Architecture
 
 Open To:
-  - Software Engineering
-  - AI/ML Engineering
-  - Backend Engineering
+  - Software Development
+  - Backend Development
+  - Java Development
+  - Python Development
+  - AI/LLM Engineering
+  - NLP
   - Full-Stack Development
-  - Data Engineering
-  - Cloud & DevOps
-  - Cybersecurity
-  - Open Source
-  - Product Engineering
-```
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="mailto:tanishqkale007@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/tanishq-kale-profile/">
-  <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/TanishqKale">
-  <img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-> **Build systems that scale. Ship products that matter. Keep learning.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6D28D9,100:312E81&height=140&section=footer&animation=twinkling" width="100%"/>
-
-</div>
+  - Software Engineering
