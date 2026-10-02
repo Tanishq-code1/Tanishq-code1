@@ -227,7 +227,7 @@ Worked on **post-LLM training, model evaluation, benchmarking, and NLP-related w
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Tanishq-code1&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1&icon_color=8B5CF6&rank_icon=github&custom_title=Tanishq%20Kale%27s%20GitHub%20Stats" alt="GitHub Stats"/>
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=Tanishq-code1&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1&icon_color=8B5CF6&rank_icon=github&custom_title=Tanishq%20Kale%27s%20GitHub%20Stats&hide=contribs" alt="GitHub Stats"/>
 
 <img height="180" src="https://streak-stats.demolab.com/?user=Tanishq-code1&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=94A3B8&stroke=312E81" alt="GitHub Streak"/>
 
@@ -237,7 +237,7 @@ Worked on **post-LLM training, model evaluation, benchmarking, and NLP-related w
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq-code1&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1&icon_color=8B5CF6" alt="Top Languages"/>
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tanishq-code1&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1&icon_color=8B5CF6" alt="Top Languages"/>
 
 </div>
 
@@ -252,6 +252,7 @@ Worked on **post-LLM training, model evaluation, benchmarking, and NLP-related w
 </div>
 
 ---
+
 
 ## Contribution Activity
 
