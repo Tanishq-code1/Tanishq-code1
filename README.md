@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:312E81,50:6D28D9,100:7C3AED&height=220&section=header&animation=twinkling" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:312E81,50:6D28D9,100:7C3AED&height=220&section=header&text=TANISHQ%20KALE&fontSize=46&fontColor=FFFFFF&fontAlignY=42&animation=twinkling" width="100%" alt="Tanishq Kale"/>
 
 <br>
 
@@ -99,7 +99,7 @@ I enjoy solving practical problems through software engineering and exploring ho
 | AI Model Analysis | Hands-on | Analysed model responses using standardized review frameworks |
 | Structured Annotation | Hands-on | Worked with annotation and feedback loops to improve response quality |
 | AI & LLM Technologies | Working Knowledge | Focused on practical AI-powered solutions and LLM-based workflows |
-| Machine Learning | Foundational | Developing knowledge through academic and practical AI-oriented work |
+| Machine Learning | Foundational | Building knowledge through academic and practical AI-oriented work |
 
 ---
 
@@ -162,7 +162,7 @@ Professional experience focused on post-LLM training, model evaluation, benchmar
 
 ## Experience
 
-### LLM Training & Model Evaluation Intern  
+### LLM Training & Model Evaluation Intern
 **Ethara AI**
 
 **January 2026 – Present · On-Site**
@@ -247,7 +247,7 @@ Worked on **post-LLM training, model evaluation, benchmarking, and NLP-related w
 
 <div align="center">
 
-<img src="https://gitascii.com/api/Tanishq-code1?widgets=profile-trophy" alt="GitHub Profile Trophies" width="900"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Tanishq-code1&theme=onestar&no-bg=true&no-frame=true&margin-w=8&margin-h=8&row=2&column=6" alt="GitHub Profile Trophies" width="900"/>
 
 </div>
 
@@ -257,7 +257,7 @@ Worked on **post-LLM training, model evaluation, benchmarking, and NLP-related w
 
 <div align="center">
 
-<img src="https://gh-heat.anishroy.com/api/Tanishq-code1/svg?theme=purple&darkMode=true&mobile=true" alt="Tanishq-code1 GitHub Contribution Activity" width="900"/>
+<img src="https://ghchart.rshah.org/Tanishq-code1" alt="Tanishq-code1 GitHub Contribution Activity" width="900"/>
 
 </div>
 
@@ -270,7 +270,7 @@ Worked on **post-LLM training, model evaluation, benchmarking, and NLP-related w
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanishq-code1/Tanishq-code1/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanishq-code1/Tanishq-code1/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/Tanishq-code1/Tanishq-code1/output/github-snake.svg" alt="Tanishq-code1 GitHub Contribution Snake">
+  <img src="https://raw.githubusercontent.com/Tanishq-code1/Tanishq-code1/output/github-snake.svg" alt="Tanishq-code1 GitHub Contribution Snake" width="900">
 </picture>
 
 </div>
