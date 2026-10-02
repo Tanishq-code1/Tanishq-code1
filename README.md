@@ -267,7 +267,11 @@ Worked on **post-LLM training, model evaluation, benchmarking, and NLP-related w
 
 <div align="center">
 
-<img src="https://gitascii.com/api/Tanishq-code1?widgets=contribution-snake" alt="Tanishq-code1 Contribution Snake" width="900"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanishq-code1/Tanishq-code1/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanishq-code1/Tanishq-code1/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/Tanishq-code1/Tanishq-code1/output/github-snake.svg" alt="Tanishq-code1 GitHub Contribution Snake">
+</picture>
 
 </div>
 
