@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:312E81,50:6D28D9,100:7C3AED&height=220&section=header&text=TANISHQ%20KALE&fontSize=46&fontColor=FFFFFF&fontAlignY=42&animation=twinkling" width="100%" alt="Tanishq Kale"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1E1B4B,45:4C1D95,100:7C3AED&height=170&section=header&text=TANISHQ%20KALE&fontSize=48&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" width="100%" alt="Tanishq Kale Header"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+Practical+Software+Solutions;Backend+Development+%7C+Java+%7C+Python;AI+%26+LLM+Evaluation+%7C+Model+Benchmarking;Turning+Problems+Into+Reliable+Applications" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=21&duration=3200&pause=800&color=A78BFA&center=true&vCenter=true&width=950&height=50&repeat=true&lines=Building+Practical+Software+Solutions;Backend+Development+%7C+Java+%7C+Python;AI+%26+LLM+Evaluation+%7C+NLP;Turning+Problems+Into+Reliable+Applications" alt="Typing SVG"/>
 
 <br><br>
 
@@ -39,6 +39,7 @@
 
 </div>
 
+---
 ---
 
 ## About
@@ -243,22 +244,13 @@ Worked on **post-LLM training, model evaluation, benchmarking, and NLP-related w
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tanishq-code1&theme=onestar&no-bg=true&no-frame=true&margin-w=8&margin-h=8&row=2&column=6" alt="GitHub Profile Trophies" width="900"/>
-
-</div>
-
----
-
-
 ## Contribution Activity
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/Tanishq-code1" alt="Tanishq-code1 GitHub Contribution Activity" width="900"/>
+<a href="https://github.com/Tanishq-code1">
+  <img src="https://ghchart.rshah.org/Tanishq-code1" alt="Tanishq-code1 GitHub Contribution Activity" width="900"/>
+</a>
 
 </div>
 
