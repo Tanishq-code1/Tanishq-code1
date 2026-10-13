@@ -301,6 +301,5 @@ Open To:
   - Java Development
   - Python Development
   - AI/LLM Engineering
-  - NLP
   - Web Development
   - Software Engineering
