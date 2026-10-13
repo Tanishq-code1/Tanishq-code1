@@ -131,55 +131,56 @@ I enjoy solving practical problems through software engineering and exploring ho
 ## Featured Projects
 
 <details>
-<summary><strong>AlertAngel — Women's Safety Web App</strong></summary>
+<summary><strong>Financial Report Analyzer</strong> · March 2025 - July 2025</summary>
 
-<br>
+### Overview
 
-A real-time women's safety web application designed around emergency alerts, live location tracking, safe-zone discovery, and route suggestions.
+An LLM-powered system that summarizes financial reports and answers user questions in natural language. The system uses document chunking and embedding-based retrieval to surface context-aware insights from unstructured reports.
 
-| Category | Details |
-|---|---|
-| **Stack** | HTML, CSS, JavaScript, Flask, Google Maps API |
-| **Scale** | Real-time web application focused on personal safety |
-| **Performance** | Designed for quick interaction during emergency situations |
-| **Security** | Live location sharing with selected trusted contacts |
-| **Impact** | Provides emergency alerts, location tracking, safe zones, and route suggestions |
-| **Repository** | [GitHub Repositories](https://github.com/Tanishq-code1?tab=repositories) |
+| Dimension | Details |
+|:--|:--|
+| Stack | LLMs, Retrieval-Augmented Generation, Python |
+| Scale | Not specified in the resume |
+| Performance | Reduced manual analysis time from approximately 45 minutes to approximately 5 minutes per report |
+| Security | Security implementation not specified in the resume |
+| Impact | Extracted KPIs, risks, and financial outlook from unstructured financial reports |
+| Repository | [Browse repositories](https://github.com/Tanishq-code1?tab=repositories) |
 
-### Engineering Scope
+### Engineering Details
 
-- Built a women's safety web application supporting **real-time alerts and location tracking**.
-- Integrated the **Google Maps API** to identify nearby safe zones and provide route suggestions.
-- Developed an emergency alert feature that shares the user's live location with selected trusted contacts.
-- Designed a clean and accessible interface focused on quick response and ease of use during emergency situations.
+- Built natural-language summarization and question-answering flows for financial reports.
+- Implemented document chunking and embedding-based retrieval for context-aware answers.
+- Extracted key financial insights, including KPIs, risks, and outlook.
+
+**Technologies:** `LLMs` `RAG` `Python`
 
 </details>
 
-<br>
+<br />
 
 <details>
-<summary><strong>LLM Training & Model Evaluation</strong></summary>
+<summary><strong>Video-Based Attentiveness Tracker</strong> · January 2026 - April 2026</summary>
 
-<br>
+### Overview
 
-Professional experience focused on post-LLM training, model evaluation, benchmarking, NLP, and structured feedback workflows.
+An AI-driven, real-time attentiveness monitoring system that analyzes eye gaze, head pose, and blink rate to produce a live focus score.
 
-| Category | Details |
-|---|---|
-| **Stack** | LLM Evaluation, NLP, Model Benchmarking, Structured Annotation |
-| **Scale** | Evaluation of outputs from 3 LLMs |
-| **Performance** | Improved response correctness and evaluation efficiency by 68% |
-| **Security** | Evaluated factual accuracy, logical consistency, and instruction adherence |
-| **Impact** | Helped identify hallucinations and alignment gaps across model versions |
-| **Repository** | Professional Experience — No Public Repository |
+| Dimension | Details |
+|:--|:--|
+| Stack | Computer Vision, Machine Learning, Python |
+| Scale | Not specified in the resume |
+| Performance | No benchmark or percentage supplied in the resume |
+| Security | Security implementation not specified in the resume |
+| Impact | Potential applications include e-learning, remote work monitoring, and human-computer interaction |
+| Repository | [Browse repositories](https://github.com/Tanishq-code1?tab=repositories) |
 
-### Engineering Scope
+### Engineering Details
 
-- Evaluated outputs from **3 Large Language Models** using standardized review frameworks.
-- Performed benchmarking and comparative analysis across model versions.
-- Identified hallucinations and alignment gaps through structured evaluation.
-- Contributed to post-training optimization through structured annotation and feedback loops.
-- Improved model response correctness and evaluation efficiency by **68%**.
+- Developed a live focus-scoring engine for attentiveness assessment.
+- Engineered the backend pipeline for video processing and feature extraction.
+- Built attentiveness analytics from eye gaze, head pose, and blink-rate signals.
+
+**Technologies:** `Computer Vision` `Machine Learning` `Python`
 
 </details>
 
@@ -187,24 +188,17 @@ Professional experience focused on post-LLM training, model evaluation, benchmar
 
 ## Experience
 
-### LLM Training & Model Evaluation Intern
-**Ethara AI**
+### Post-LLM Training, Model Evaluation, NLP · Ethara AI
 
-**January 2026 – Present · On-Site**
+**January 2026 - May 2026**
 
-Worked on **post-LLM training, model evaluation, benchmarking, and NLP-related workflows**.
-
-**Scope of Work**
-
-- Evaluated Large Language Model outputs for factual accuracy, logical consistency, and instruction adherence.
-- Performed benchmarking and comparative analysis to identify hallucinations and alignment gaps.
-- Evaluated outputs from 3 LLMs using standardized review frameworks.
+- Evaluated Large Language Model outputs for factual accuracy, logical consistency, and instruction adherence using standardized review frameworks.
+- Conducted benchmarking and comparative analysis to identify hallucinations and alignment gaps.
 - Contributed to post-training optimization through structured annotation and feedback loops.
-- Improved model response correctness and evaluation efficiency by 68%.
+- Improved model response correctness and evaluation efficiency by **68%**, according to the resume.
 
-**Skills**
+**Skills:** `LLM Evaluation` `NLP` `Model Benchmarking` `Structured Annotation` `AI` `Analysis` `Problem Solving`
 
-`LLM Evaluation` `NLP` `Model Benchmarking` `Structured Annotation` `AI` `Analysis` `Problem Solving`
 
 ---
 
@@ -228,9 +222,9 @@ Worked on **post-LLM training, model evaluation, benchmarking, and NLP-related w
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Java-6D28D9?style=for-the-badge" alt="NPTEL Programming in Java"/>
-<img src="https://img.shields.io/badge/NPTEL-Design%20%26%20Analysis%20of%20Algorithms-4F46E5?style=for-the-badge" alt="NPTEL Design and Analysis of Algorithms"/>
-<img src="https://img.shields.io/badge/NPTEL-Software%20Engineering-312E81?style=for-the-badge" alt="NPTEL Software Engineering"/>
+<img src="https://img.shields.io/badge/NPTEL%20-%20Design%20and%20Analysis%20of%20Algorithms-539bf5?style=for-the-badge&labelColor=22272e"  alt="NPTEL Programming in Java"/>
+<img src="https://img.shields.io/badge/NPTEL%20-%20Design%20and%20Analysis%20of%20Algorithms-539bf5?style=for-the-badge&labelColor=22272e" alt="NPTEL Design and Analysis of Algorithms"/>
+<img src="https://img.shields.io/badge/NPTEL%20-%20Design%20and%20Analysis%20of%20Algorithms-539bf5?style=for-the-badge&labelColor=22272e"  alt="NPTEL Software Engineering"/>
 
 </div>
 
@@ -240,9 +234,8 @@ Worked on **post-LLM training, model evaluation, benchmarking, and NLP-related w
 
 <div align="center">
 
-<a href="https://github.com/Tanishq-code1">
-  <img src="https://img.shields.io/badge/GitHub-Tanishq--code1-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-</a>
+<a href="https://github.com/Tanishq-code1"><img src="https://img.shields.io/badge/GitHub-Tanishq--code1-539bf5?style=for-the-badge&labelColor=22272e&logo=github&logoColor=e6edf3" alt="Tanishq-code1 GitHub profile" /></a>
+
 
 </div>
 
@@ -252,31 +245,15 @@ Worked on **post-LLM training, model evaluation, benchmarking, and NLP-related w
 
 <div align="center">
 
-<img height="180" src="https://github-stats-extended.vercel.app/api?username=Tanishq-code1&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1&icon_color=8B5CF6&rank_icon=github&custom_title=Tanishq%20Kale%27s%20GitHub%20Stats&hide=contribs" alt="GitHub Stats"/>
+<a href="https://github.com/Tanishq-code1"><img height="180" src="https://github-readme-stats.shion.dev/api?username=Tanishq-code1&show_icons=true&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&rank_icon=github&custom_title=Tanishq%20Kale%27s%20GitHub%20Stats" alt="Tanishq Kale's GitHub statistics with GitHub rank icon" /></a>
+<a href="https://github.com/Tanishq-code1"><img height="180" src="https://streak-stats.demolab.com/?user=Tanishq-code1&theme=github_dark_dimmed&hide_border=false" alt="GitHub contribution streak for Tanishq-code1" /></a>
 
-<img height="180" src="https://streak-stats.demolab.com/?user=Tanishq-code1&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=94A3B8&stroke=312E81" alt="GitHub Streak"/>
+<br />
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tanishq-code1&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1&icon_color=8B5CF6" alt="Top Languages"/>
+<a href="https://github.com/Tanishq-code1"><img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tanishq-code1&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Most-used repository languages for Tanishq-code1" /></a>
 
 </div>
 
----
-
-## Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/Tanishq-code1">
-  <img src="https://ghchart.rshah.org/Tanishq-code1" alt="Tanishq-code1 GitHub Contribution Activity" width="900"/>
-</a>
-
-</div>
 
 ---
 
