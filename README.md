@@ -237,20 +237,46 @@ An AI-driven, real-time attentiveness monitoring system that analyzes eye gaze, 
 </div>
 
 ---
-
 ## GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/Tanishq-code1"><img height="180" src="https://github-readme-stats.shion.dev/api?username=Tanishq-code1&show_icons=true&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&rank_icon=github&custom_title=Tanishq%20Kale%27s%20GitHub%20Stats" alt="Tanishq Kale's GitHub statistics with GitHub rank icon" /></a>
-<a href="https://github.com/Tanishq-code1"><img height="180" src="https://streak-stats.demolab.com/?user=Tanishq-code1&theme=github_dark_dimmed&hide_border=false" alt="GitHub contribution streak for Tanishq-code1" /></a>
-
-<br />
-
-<a href="https://github.com/Tanishq-code1"><img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tanishq-code1&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Most-used repository languages for Tanishq-code1" /></a>
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/Tanishq-code1">
+        <img
+          src="https://github-readme-stats.shion.dev/api?username=Tanishq-code1&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&custom_title=Tanishq%20Kale%27s%20GitHub%20Stats"
+          height="180"
+          alt="Tanishq Kale GitHub statistics"
+        />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/Tanishq-code1">
+        <img
+          src="https://streak-stats.demolab.com/?user=Tanishq-code1&theme=github-dark-blue&hide_border=true"
+          height="180"
+          alt="Tanishq-code1 GitHub contribution streak"
+        />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br>
+      <a href="https://github.com/Tanishq-code1">
+        <img
+          src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tanishq-code1&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=8"
+          height="180"
+          alt="Tanishq-code1 most used programming languages"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
-
 
 ---
 
