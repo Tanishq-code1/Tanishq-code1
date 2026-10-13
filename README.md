@@ -58,37 +58,61 @@ I enjoy solving practical problems through software engineering and exploring ho
 
 ---
 
+
 ## Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css&theme=dark" alt="Java Python JavaScript HTML CSS"/>
-</p>
-
-### Backend & Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,bootstrap&theme=dark" alt="Flask Bootstrap"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python" title="Python" />
 </p>
 
 ### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="SQL" title="SQL" />
 </p>
 
-### Development & Version Control
+### Backend & Frameworks
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git GitHub"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI" title="FastAPI" />
+  <img src="https://cdn.simpleicons.org/pydantic/539BF5" width="48" height="48" alt="Pydantic" title="Pydantic" style="background:#22272e;border-radius:12px;padding:6px;" />
 </p>
 
-### Core Skills
+### Agentic AI & LLM Engineering
 
-`SQL` `OOP` `REST APIs` `Database Management` `Problem Solving`
+<p align="left">
+  <img src="https://cdn.simpleicons.org/langchain/539BF5" width="48" height="48" alt="LangChain" title="LangChain" style="background:#22272e;border-radius:12px;padding:6px;" />
+  <img src="https://cdn.simpleicons.org/langgraph/539BF5" width="48" height="48" alt="LangGraph" title="LangGraph" style="background:#22272e;border-radius:12px;padding:6px;" />
+  <img src="https://img.icons8.com/color/96/flow-chart.png" width="48" height="48" alt="Model Context Protocol" title="MCP" style="background:#22272e;border-radius:12px;padding:6px;" />
+  <img src="https://img.icons8.com/color/96/search.png" width="48" height="48" alt="Retrieval-Augmented Generation" title="RAG" style="background:#22272e;border-radius:12px;padding:6px;" />
+  <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="48" height="48" alt="Generative AI" title="Generative AI" style="background:#22272e;border-radius:12px;padding:6px;" />
+  <img src="https://img.icons8.com/color/96/robot-2.png" width="48" height="48" alt="Agentic AI" title="Agentic AI" style="background:#22272e;border-radius:12px;padding:6px;" />
+  <img src="https://img.icons8.com/color/96/chat.png" width="48" height="48" alt="Large Language Models" title="LLMs" style="background:#22272e;border-radius:12px;padding:6px;" />
+  <img src="https://img.icons8.com/color/96/edit.png" width="48" height="48" alt="Prompt Engineering" title="Prompt Engineering" style="background:#22272e;border-radius:12px;padding:6px;" />
+</p>
+
+### Computer Vision & Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="48" height="48" alt="OpenCV" title="OpenCV" />
+  <img src="https://skillicons.dev/icons?i=azure&theme=dark" width="48" height="48" alt="Microsoft Azure" title="Azure" />
+</p>
+
+### Core Engineering
+
+<p align="left">
+  <img src="https://img.icons8.com/color/96/server.png" width="48" height="48" alt="Backend Development" title="Backend Development" style="background:#22272e;border-radius:12px;padding:6px;" />
+  <img src="https://img.icons8.com/color/96/code.png" width="48" height="48" alt="Object-Oriented Programming" title="Object-Oriented Programming" style="background:#22272e;border-radius:12px;padding:6px;" />
+  <img src="https://img.icons8.com/color/96/brain.png" width="48" height="48" alt="Critical Thinking" title="Critical Thinking" style="background:#22272e;border-radius:12px;padding:6px;" />
+  <img src="https://img.icons8.com/color/96/idea.png" width="48" height="48" alt="Problem Solving" title="Problem Solving" style="background:#22272e;border-radius:12px;padding:6px;" />
+  <img src="https://img.icons8.com/color/96/conference-call.png" width="48" height="48" alt="Teamwork" title="Teamwork" style="background:#22272e;border-radius:12px;padding:6px;" />
+</p>
 
 ---
+
 
 ## AI / ML Expertise
 
