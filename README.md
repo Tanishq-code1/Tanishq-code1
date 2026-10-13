@@ -44,13 +44,10 @@
 
 ## About
 
-I am a final-year **B.Tech Computer Science & Information Technology student** with strong foundations in **Java, Python, JavaScript, SQL, Object-Oriented Programming, database management, and backend development**.
+I am a results-driven AI Engineer focused on building practical, reliable software with **Agentic AI**, **Retrieval-Augmented Generation**, and modern LLM application patterns. I work primarily with Python, LangChain, LangGraph, prompt engineering, backend development, and Azure deployment while exploring ways to turn real-world problems into scalable AI systems.
 
-My primary interest lies in building practical software solutions with a strong focus on **backend development, web applications, REST API integration, and database-driven systems**.
+My interests sit at the intersection of autonomous AI, robust backend engineering, NLP, and computer vision. I enjoy learning by building systems that are useful, measurable, and clear to maintain.
 
-Alongside software development, I have professional experience in **Large Language Model evaluation, model benchmarking, NLP, structured annotation, and post-LLM training workflows**. My work involves evaluating model outputs for factual accuracy, logical consistency, and instruction adherence while identifying hallucinations and alignment gaps across model versions.
-
-I enjoy solving practical problems through software engineering and exploring how **AI and LLM technologies** can be integrated into useful and reliable applications.
 
 ### Open To
 
@@ -304,3 +301,18 @@ Open To:
   - AI/LLM Engineering
   - Web Development
   - Software Engineering
+```
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/tanishq-kale-profile/"><img src="https://img.shields.io/badge/LinkedIn-Connect-539bf5?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="Connect on LinkedIn" /></a>
+<a href="mailto:tanishqkale007@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-539bf5?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Send an email" /></a>
+<a href="https://github.com/Tanishq-code1?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20projects-539bf5?style=for-the-badge&logo=github&logoColor=ffffff" alt="Explore GitHub projects" /></a>
+
+</div>
+
+<br />
+
