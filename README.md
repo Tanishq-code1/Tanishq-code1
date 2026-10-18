@@ -34,7 +34,7 @@
 <br><br>
 
 <a href="https://github.com/Tanishq-code1">
-  <img src="https://komarev.com/ghpvc/?username=Tanishq-code1&style=for-the-badge&color=6D28D9&labelColor=111827&logo=github&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://hits.sh/github.com/Tanishq-code1.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=6D28D9&labelColor=111827" alt="Profile Views"/>
 </a>
 <a href="https://github.com/Tanishq-code1">
   <img src="https://img.shields.io/github/followers/Tanishq-code1?style=for-the-badge&color=6D28D9&labelColor=111827&logo=github&label=FOLLOWERS" alt="Followers"/>
