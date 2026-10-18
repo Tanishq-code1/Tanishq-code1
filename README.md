@@ -33,9 +33,12 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Tanishq-code1&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Tanishq-code1?style=for-the-badge&color=6D28D9&labelColor=111827&logo=github&label=FOLLOWERS" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Tanishq-code1/Tanishq-code1?style=for-the-badge&color=8B5CF6&labelColor=111827&logo=github&label=PROFILE+REPO+STARS" alt="Profile Repository Stars"/>
+<a href="https://github.com/Tanishq-code1">
+  <img src="https://komarev.com/ghpvc/?username=Tanishq-code1&style=for-the-badge&color=6D28D9&labelColor=111827&logo=github&label=PROFILE+VIEWS" alt="Profile Views"/>
+</a>
+<a href="https://github.com/Tanishq-code1">
+  <img src="https://img.shields.io/github/followers/Tanishq-code1?style=for-the-badge&color=6D28D9&labelColor=111827&logo=github&label=FOLLOWERS" alt="Followers"/>
+</a>
 
 </div>
 
@@ -102,10 +105,10 @@ My interests sit at the intersection of autonomous AI, robust backend engineerin
 
 <p align="left">
   <img src="https://img.icons8.com/color/96/server.png" width="48" height="48" alt="Backend Development" title="Backend Development" style="background:#22272e;border-radius:12px;padding:6px;" />
-  <img src="https://img.icons8.com/color/96/code.png" width="48" height="48" alt="Object-Oriented Programming" title="Object-Oriented Programming" style="background:#22272e;border-radius:12px;padding:6px;" />
-  <img src="https://img.icons8.com/color/96/brain.png" width="48" height="48" alt="Critical Thinking" title="Critical Thinking" style="background:#22272e;border-radius:12px;padding:6px;" />
-  <img src="https://img.icons8.com/color/96/idea.png" width="48" height="48" alt="Problem Solving" title="Problem Solving" style="background:#22272e;border-radius:12px;padding:6px;" />
-  <img src="https://img.icons8.com/color/96/conference-call.png" width="48" height="48" alt="Teamwork" title="Teamwork" style="background:#22272e;border-radius:12px;padding:6px;" />
+  <img src="https://img.icons8.com/color/96/code.png" width="48" height="48" alt="Object-Oriented Programming" title="Object-Oriented Programming" style="background:#22272e:border-radius:12px;padding:6px;" />
+  <img src="https://img.icons8.com/color/96/brain.png" width="48" height="48" alt="Critical Thinking" title="Critical Thinking" style="background:#22272e:border-radius:12px;padding:6px;" />
+  <img src="https://img.icons8.com/color/96/idea.png" width="48" height="48" alt="Problem Solving" title="Problem Solving" style="background:#22272e:border-radius:12px;padding:6px;" />
+  <img src="https://img.icons8.com/color/96/conference-call.png" width="48" height="48" alt="Teamwork" title="Teamwork" style="background:#22272e:border-radius:12px;padding:6px;" />
 </p>
 
 ---
@@ -182,6 +185,7 @@ An AI-driven, real-time attentiveness monitoring system that analyzes eye gaze, 
 </details>
 
 ---
+
 
 ## Experience
 
@@ -341,4 +345,3 @@ Open To:
 </div>
 
 <br />
-
