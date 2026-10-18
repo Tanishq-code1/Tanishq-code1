@@ -1,43 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1E1B4B,45:4C1D95,100:7C3AED&height=170&section=header&text=TANISHQ%20KALE&fontSize=48&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" width="100%" alt="Tanishq Kale Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:151c28,50:1f2e45,100:151c28&height=200&section=header&text=TANISHQ%20KALE&fontSize=44&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" width="100%" alt="Tanishq Kale Header"/>
+
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3200&pause=800&color=539BF5&center=true&vCenter=true&width=950&height=70&repeat=true&lines=Building+Practical+Software+Solutions;Backend+Development+%7C+Java+%7C+Python;AI+%26+LLM+Evaluation+%7C+NLP;Turning+Problems+Into+Reliable+Applications" alt="Typing SVG"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=21&duration=3200&pause=800&color=A78BFA&center=true&vCenter=true&width=950&height=50&repeat=true&lines=Building+Practical+Software+Solutions;Backend+Development+%7C+Java+%7C+Python;AI+%26+LLM+Evaluation+%7C+NLP;Turning+Problems+Into+Reliable+Applications" alt="Typing SVG"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/B.Tech-CSIT-6D28D9?style=for-the-badge&labelColor=111827" alt="B.Tech CSIT"/>
-<img src="https://img.shields.io/badge/Acropolis%20Institute%20of%20Technology%20%26%20Research-2022--2026-4C1D95?style=for-the-badge&labelColor=111827" alt="Acropolis Institute of Technology and Research"/>
-<img src="https://img.shields.io/badge/Aspiring%20Software%20Developer-312E81?style=for-the-badge&labelColor=111827" alt="Aspiring Software Developer"/>
-<img src="https://img.shields.io/badge/Location-Madhya%20Pradesh%2C%20India-4338CA?style=for-the-badge&labelColor=111827" alt="Location"/>
+<img src="https://img.shields.io/badge/B.Tech-CSIT-539bf5?style=for-the-badge&labelColor=22272e" alt="B.Tech CSIT"/>
+<img src="https://img.shields.io/badge/Acropolis%20Institute%20of%20Technology%20%26%20Research-2022--2026-539bf5?style=for-the-badge&labelColor=22272e" alt="Acropolis Institute of Technology and Research"/>
+<img src="https://img.shields.io/badge/Location-Madhya%20Pradesh%2C%20India-539bf5?style=for-the-badge&labelColor=22272e" alt="Location"/>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/tanishq-kale-profile/">
-  <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-539bf5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="mailto:tanishqkale007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-539bf5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
 <a href="https://github.com/Tanishq-code1">
-  <img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-539bf5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
 <a href="https://github.com/Tanishq-code1?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+  <img src="https://img.shields.io/badge/Repositories-539bf5?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </a>
 
 <br><br>
 
 <a href="https://github.com/Tanishq-code1">
-  <img src="https://komarev.com/ghpvc/?username=Tanishq-code1&style=for-the-badge&color=6D28D9&labelColor=111827&logo=github&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTanishq-code1&label=PROFILE+VIEWS&labelColor=%2322272e&countColor=%23539bf5&style=for-the-badge" alt="Profile Views"/>
 </a>
 <a href="https://github.com/Tanishq-code1">
-  <img src="https://img.shields.io/github/followers/Tanishq-code1?style=for-the-badge&color=6D28D9&labelColor=111827&logo=github&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/Tanishq-code1?style=for-the-badge&color=539bf5&labelColor=22272e&logo=github&label=FOLLOWERS" alt="Followers"/>
 </a>
 
 </div>
