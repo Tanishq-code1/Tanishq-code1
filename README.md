@@ -340,7 +340,20 @@ Open To:
 </div>
 
 <br />
-Hiii
-there
+<br><br>
+
+<a href="https://www.linkedin.com/in/tanishq-kale-profile/">
+  <img src="https://img.shields.io/badge/LinkedIn-539bf5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:tanishqkale007@gmail.com">
+  <img src="https://img.shields.io/badge/Email-539bf5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/Tanishq-code1">
+  <img src="https://img.shields.io/badge/GitHub-539bf5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://github.com/Tanishq-code1?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-539bf5?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</a>
+
 <br />
 
